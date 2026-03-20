@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+*.war
+.mvn/
+!.mvn/wrapper/
+uploads/
+test-uploads/

@@ -1,0 +1,6 @@
+DataInitializer: updated 5 tables, 1 admins 성공했고 backend도 정상 기동됐어요. docker-compose logs -f 가 실시간으로 계속 출력되고 있어서 멈춰 보이는 거예요. 정상입니다.
+
+새 터미널 열어서 로그인 시도해보세요:
+
+admin (http://localhost:3001): STORE001 / admin / 1234
+table (http://localhost:3000): STORE001 / 1 / 1234
